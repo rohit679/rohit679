@@ -32,16 +32,15 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
-✔ I’m currently learning **NextJS** & **Bootstrap**<br>
-✔ I'm quite good at **NodeJs**, **ReactJs**, **Python**, **Pig Latin**.<br>
+✔ Pronouns: ***He/His*** or ***TeamMaker*** 😉 <br>
+✔ I’m currently Developing backend for a covid portal called **Kangra COVID Bedtracker** for Himachal Govt. @**Plaxonic**<br>
+✔ I’m currently learning **React** & **Bootstrap**<br>
+✔ I'm quite good at **NodeJs**, **ReactJs**, **Python**, **Git** & **MongoDB**.<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
 ✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
-✔ Have a look over My personal [Portfolio Website](https://inspiring-wright-e29c46.netlify.app/)<br>
-✔ Look at My contribution [stats](https://gitlab.com/Akashchowrasia) on [Gitlab](https://gitlab.com/Akashchowrasia)<br>
+✔ I use to write code on [leetcode](https://leetcode.com/rohit221/) <br>
+✔ Have a look over My personal [Portfolio Website](https://rohit679.github.io/)<br>
+✔ Look at My contribution [stats](https://gitlab.com/rohit679) on [Gitlab](https://gitlab.com/rohit679)<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
@@ -53,12 +52,8 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://github.com/unicodeveloper/awesome-nextjs/blob/master/nextjs-logo.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
@@ -68,13 +63,12 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/uiwjs/bootstrap-icons/blob/master/assets/logo.svg"> </code>
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit679&show_icons=true&locale=en&layout=compact" alt="rohit prasad stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash-chowrasia&count_private=true&show_icons=true" alt="akash-chowrasia" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit679&count_private=true&show_icons=true" alt="rohit prasad" width="410" /></p>
 
 <hr>
 
