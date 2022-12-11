@@ -15,11 +15,10 @@
 
 <p align="center">
   <em>
-    This is Rohit Prasad, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Amritsar college of engineering & technology</b>, Amritsar</a> in computer science stream.
-    A budding <b>Full-Stack Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> <b>Obsessed</b>
-    with the idea of <b>learning & exploring</b>. Wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    A <b>Software Engineer</b> with over <b>2.3 years</b> of experience. Currently working <a href="https://www.plaxonic.com/"><b>@Plaxonic Technologies</b></a>, Noida<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20">.
+    Did BTECH in Computer Science from <a href="https://ptu.ac.in/">Punjab Technical University</a> in 2021.
+    Usually work with <b>MERN</b> stack technologies.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">     A <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> <b>Obsessed</b>
+    with the idea of <b>learning & exploring</b>.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
@@ -30,9 +29,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker*** 😉 <br>
-✔ I’m currently Developing backend for a covid portal called **Kangra COVID Bedtracker** for Himachal Govt. @**Plaxonic**<br>
-✔ I’m currently learning **React** & **Bootstrap**<br>
+✔ Pronouns: ***He/Him*** or ***TeamMaker*** 😉 <br>
 ✔ I'm quite good at **NodeJs**, **ReactJs**, **Python**, **Git** & **MongoDB**.<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rohit_prasad/articles) <br>
@@ -42,26 +39,6 @@
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left">
-  
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-  <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit679&show_icons=true&locale=en&layout=compact" alt="rohit prasad stats" /></p>
