@@ -3,47 +3,84 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rohit Prasad</h1>
-<h3 align="center">Software Engineer | Competitve Coder | Nature Lover</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/rohpr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/rohit221/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Leetcode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rohit_prasad/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
- <a href = "mailto: prasad.rohit078@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-  <a href="https://gitlab.com/rohit679" target="_blank"><img align="center" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/gitlab-512.png" alt="GitLab" height="30" width="40" /></a>
-</p>
-</p>
+<h3 align="center">MERN Stack Developer 🇮🇳 | Heliophile 🌞 | ❤️ to code</h3>
 
 <p align="center">
-  <em>
-    A <b>Software Engineer</b> with over <b>2.3 years</b> of experience. Currently working <a href="https://www.plaxonic.com/"><b>@Plaxonic Technologies</b></a>, Noida<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20">.
-    Did BTECH in Computer Science from <a href="https://ptu.ac.in/">Punjab Technical University</a> in 2021.
-    Usually work with <b>MERN</b> stack technologies.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">     A <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> <b>Obsessed</b>
-    with the idea of <b>learning & exploring</b>.
+    A <b>Software Engineer</b> with over <b>3 years</b> of experience. Currently working <a href="https://www.adglobal360.com/"><b>@AdGlobal360</b></a>, Gurugram 🇮🇳.
+    2021 B.Tech graduate in Computer Science from <a href="https://ptu.ac.in/">PTU, India</a>.
+    Able to work as a fullstack asset under <b>MERN</b> stack technologies.     
+    <br>
+    A <b>Table Tenis</b> 🏓 Enthusiast <b>Obsessed</b> with the idea of <b>learning & exploring</b>.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit679&label=Profile%20views&color=0e75b6&style=flat" alt="rohit prasad" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<h3 align="left">
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Talking about Personal Stuffs...</h3>
 
-✔ Pronouns: ***He/Him*** or ***TeamMaker*** 😉 <br>
-✔ I'm quite good at **NodeJs**, **ReactJs**, **Python**, **Git** & **MongoDB**.<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rohit_prasad/articles) <br>
-✔ I use to write code on [leetcode](https://leetcode.com/rohit221/) <br>
-✔ Have a look over My personal [Portfolio Website](https://rohit679.github.io/)<br>
-✔ Look at My contribution stats on [Gitlab](https://gitlab.com/rohit679)<br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
- 
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+✔ Pronouns: **_He/Him_** or **_TeamPlayer_** 😉 <br>
+✔ Quite good at **NodeJs**, **ReactJs**, **NextJs**, **NestJs**, **Git** & **MongoDB**.<br>
+✔ Would ❤️ to collaborate with any **Open - Source contribution**<br>
+✔ Wrote some DSA related articles as well for [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rohit_prasad/articles) <br>
+✔ Having 3 🌟 on my [LeetCode](https://leetcode.com/rohit221/) profile<br>
+✔ Here's my personal [Portfolio](https://rohitprasad.me/) website<br>
+✔ Feel free to ask, I am happy to help, well only if the ball is in my court ! 😎<br>
+✔ **Fun fact** : At The time of Stress coding, I use to be in half sleeping mode<br>
+
+<h3 align="left">
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Tools & Technologies I use on a daily basis</h3>
+
+<p align="left">  
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe&scale=0.8&">  
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60&scale=0.8">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff&scale=0.8">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nestjs&svgfill=E0234E&scale=0.8">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=659b60&scale=0.8">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c&scale=0.8">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7&scale=0.8">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&scale=0.8">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=8ed5fa&scale=0.8">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws&&scale=0.8">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&scale=0.8">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=FF9900&scale=0.8">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visualstudiocode&svgfill=0078d7&scale=0.8">
+</a>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit679&show_icons=true&locale=en&layout=compact" alt="rohit prasad stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit679&count_private=true&show_icons=true" alt="rohit prasad" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit679&count_private=true&show_icons=true" alt="rohit prasad" width="395" /></p>
 
-<hr>
-
+<h3 align="center">Made with ❤️ by <a href="https://rohitprasad.me">Rohit Prasad</></h3>
