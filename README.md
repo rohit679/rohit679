@@ -35,43 +35,43 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Tools & Technologies I use on a daily basis</h3>
 
 <p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://react.dev/">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe&scale=0.8&">  
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://nodejs.org/en">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60&scale=0.8">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://nextjs.org/">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff&scale=0.8">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://nestjs.com/">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nestjs&svgfill=E0234E&scale=0.8">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://www.mongodb.com/">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=659b60&scale=0.8">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://www.javascript.com/">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c&scale=0.8">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://www.typescriptlang.org/">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7&scale=0.8">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&scale=0.8">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://tailwindcss.com/">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=8ed5fa&scale=0.8">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://aws.amazon.com/">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws&&scale=0.8">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://www.linux.org/">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&scale=0.8">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://www.postman.com/">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=FF9900&scale=0.8">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://code.visualstudio.com/">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visualstudiocode&svgfill=0078d7&scale=0.8">
 </a>
 </p>
